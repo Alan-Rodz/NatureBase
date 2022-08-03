@@ -1,0 +1,38 @@
+/setup/credentials.json
+/setup/imgs/
+/setup/AdvancedDataBase.db
+/setup/node_modules/
+
+
+# dependencies
+/nb/node_modules
+/nb/.pnp
+/nb/.pnp.js
+
+# testing
+/nb/coverage
+
+# next.js
+/nb/.next/
+/nb/out/
+
+# production
+/nb/build
+
+# misc
+/nb/.DS_Store
+/nb/*.pem
+
+# debug
+/nb/npm-debug.log*
+/nb/yarn-debug.log*
+/nb/yarn-error.log*
+
+# local env files
+/nb/.env.local
+/nb/.env.development.local
+/nb/.env.test.local
+/nb/.env.production.local
+
+# vercel
+/nb/.vercel
